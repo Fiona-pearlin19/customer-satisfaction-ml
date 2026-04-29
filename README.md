@@ -1,10 +1,10 @@
-# 🧠 Customer Satisfaction Prediction (ML Project)
+✴︎ Customer Satisfaction Prediction (ML Project)
 
 Customer satisfaction plays a huge role in the success of any business. In this project, I tried to understand what actually makes customers happy by using machine learning on real-world e-commerce data.
 
 ---
 
-## 🚀 What this project is about
+✴︎ What this project is about
 
 The goal of this project is simple — predict how satisfied a customer is (review score) based on factors like delivery time and product price.
 
@@ -12,7 +12,7 @@ At the same time, I also wanted to figure out which factors influence customer s
 
 ---
 
-## 📊 Dataset
+✴︎ Dataset
 
 For this project, I used the **Olist Brazilian E-commerce dataset** from Kaggle.
 
@@ -35,7 +35,7 @@ Merging these datasets helped create a more complete picture for analysis.
 
 ---
 
-## ⚙️ Approach
+✴︎ Approach
 
 I followed a step-by-step machine learning workflow:
 
@@ -47,7 +47,7 @@ I followed a step-by-step machine learning workflow:
 
 ---
 
-## 🤖 Models Used
+✴︎ Models Used
 
 I experimented with a few regression models:
 
@@ -59,7 +59,7 @@ Among these, **Random Forest gave the best results**.
 
 ---
 
-## 📈 Results (RMSE)
+✴︎ Results (RMSE)
 
 | Model             | RMSE       |
 | ----------------- | ---------- |
@@ -67,12 +67,12 @@ Among these, **Random Forest gave the best results**.
 | Decision Tree     | 1.817060573382404 |
 | Random Forest     | 1.5878003600720056 |
 
-👉 Linear Regression performed best with the lowest RMSE, indicating that the relationship between features and customer satisfaction is relatively linear.
-  This suggests that simpler models can sometimes outperform complex models when the data has a linear pattern and limited features.
+Linear Regression performed best with the lowest RMSE, indicating that the relationship between features and customer satisfaction is relatively linear.
+This suggests that simpler models can sometimes outperform complex models when the data has a linear pattern and limited features.
 
 ---
 
-## 🔍 Key Insights
+✴︎ Key Insights
 
 Here’s what I found from the analysis:
 
@@ -83,7 +83,7 @@ Here’s what I found from the analysis:
 
 ---
 
-## 💡 Business Takeaways
+✴︎ Business Takeaways
 
 Based on these results, businesses should:
 
@@ -93,14 +93,14 @@ Based on these results, businesses should:
 
 ---
 
-## ⚠️ Limitations
+✴︎ Limitations
 
 This project uses only a limited number of features.
 It doesn’t consider factors like weather conditions, traffic, or customer behavior patterns.
 
 ---
 
-## 🔮 Future Improvements
+✴︎ Future Improvements
 
 This project can be improved further by:
 
@@ -110,7 +110,7 @@ This project can be improved further by:
 
 ---
 
-## 🛠️ Tech Stack
+✴︎ Tech Stack
 
 * Python
 * Pandas, NumPy
@@ -120,7 +120,7 @@ This project can be improved further by:
 * 
 ---
 
-##  Final Note
+✴︎ Final Note
 
 This project helped me understand how data can be used to solve real business problems.
 Even simple features like delivery time can provide powerful insights when analyzed properly.
